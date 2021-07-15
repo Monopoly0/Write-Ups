@@ -1,7 +1,7 @@
 # Write-Ups
 This is where I will upload all of my write-ups. I will also upload my CherryTree sqlite database files along with them so if you possess the cherrytree software you can view my work in the most organized fashion instead of a generated pdf file.
 https://github.com/giuspen/cherrytree
-^There is the source code of cherrytree if you prefer looking at my notes that way. Keep in mind 90% of my write-ups use cherrytree (I sometimes get lazy and just open up nano and write my notes in markdown format if the machines I am doing are too eazy).
+^There is the source code of cherrytree if you prefer looking at my notes that way. Keep in mind 90% of my write-ups use cherrytree (I sometimes get lazy and just open up nano and write my notes in markdown format if the machines I am doing are too eazy). Another thing I noticed is that on a specific cask of cherrytree it wouldn't save or export to pdf sometimes, so any incomplete write-up is because of that probably idk.
 
 Hit me up on Discord if you need any specific scans or etc.... 
 :Monopoly#7621
